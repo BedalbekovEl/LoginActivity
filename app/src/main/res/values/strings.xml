@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginActivity</string>
+    <string name="n">Выполните вход</string>
+    <string name="d">Добро пожаловать!</string>
+    <string name="email">Введите вашу почту</string>
+    <string name="password">Введите пароль</string>
+    <string name="pass">Забыл пароль?</string>
+    <string name="butt2">Нажми сюда</string>
+    <string name="www">или зарегистрируйтесь</string>
+    <string name="vxod">Вход</string>
+    <string name="vxod1">Войти</string>
+</resources>
